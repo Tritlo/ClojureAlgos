@@ -4,7 +4,7 @@ Binary trees in Clojure, as an excercise
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/Tritlo/binaryclj
 
 ## Usage
 
