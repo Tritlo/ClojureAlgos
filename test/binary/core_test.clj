@@ -1,6 +1,6 @@
-(ns binaryclj.core-test
+(ns binary.core-test
   (:require [clojure.test :refer :all]
-            [binaryclj.core :refer :all]))
+            [binary.core :refer :all]))
 (def test-tree  (insert (insert (insert ( insert (insert (leaf 100) 12) 120 ) 57) 130) 110))
 
 (deftest creation-test

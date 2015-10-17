@@ -1,10 +1,12 @@
-# BinaryClj
+# ClojureAlgos
 
-Binary trees in Clojure, as an excercise
+Various algorithms and data structures in Clojure,
+including.
 
-## Installation
-
-Download from https://github.com/Tritlo/binaryclj
++ Binary trees
++ Breadth First Search
++ A* Search
++ Jump Point Search
 
 ## Usage
 

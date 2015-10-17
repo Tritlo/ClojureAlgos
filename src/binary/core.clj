@@ -1,4 +1,4 @@
-(ns binaryclj.core
+(ns binary.core
   (:gen-class))
 
 
